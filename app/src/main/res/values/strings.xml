@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Календарь</string>
+    <string name="error_offline">Нет связи с сервером календаря</string>
+    <string name="retry">Повторить</string>
+</resources>
